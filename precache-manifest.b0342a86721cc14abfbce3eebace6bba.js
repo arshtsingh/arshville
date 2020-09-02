@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "206bf38e1e0766ccf19bfccff926429d",
+    "revision": "a4333a421ef262f76f7461040cc6b552",
     "url": "/arshville/index.html"
   },
   {
-    "revision": "4c2299aaa7a745fb6cd3",
+    "revision": "f85c5ec901194c6d4d73",
     "url": "/arshville/static/css/main.9db26f05.chunk.css"
   },
   {
-    "revision": "84bec0ce45c6c62f8dc6",
-    "url": "/arshville/static/js/2.d3f59ae7.chunk.js"
+    "revision": "bf56050904afe8fff301",
+    "url": "/arshville/static/js/2.12540ab5.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/arshville/static/js/2.d3f59ae7.chunk.js.LICENSE.txt"
+    "url": "/arshville/static/js/2.12540ab5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4c2299aaa7a745fb6cd3",
-    "url": "/arshville/static/js/main.ff3df3b0.chunk.js"
+    "revision": "f85c5ec901194c6d4d73",
+    "url": "/arshville/static/js/main.ac702283.chunk.js"
   },
   {
     "revision": "25f8fa56465c83a171b0",
